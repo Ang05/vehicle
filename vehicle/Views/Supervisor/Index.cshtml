@@ -1,0 +1,37 @@
+﻿@model DAL.Models.supervisor
+
+@{
+    ViewData["Title"] = "Add Supervisor";
+    Layout = "~/Views/Shared/_LayoutCopy.cshtml";
+}
+
+<h2>Supervisor Assignment</h2>
+
+<h4>supervisor</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="super_id" class="control-label">Supervisor Id</label>
+                <input asp-for="super_id" class="form-control" />
+                <span asp-validation-for="super_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="subord_id" class="control-label">Employee Id</label>
+                <input asp-for="subord_id" class="form-control" />
+                <span asp-validation-for="subord_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

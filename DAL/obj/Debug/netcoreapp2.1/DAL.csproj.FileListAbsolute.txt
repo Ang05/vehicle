@@ -1,0 +1,10 @@
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\bin\Debug\netcoreapp2.1\DAL.dll.config
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\Users\Angmun Suzzy Niyang\Desktop\Practice\vehicle\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
